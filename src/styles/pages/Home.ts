@@ -10,7 +10,10 @@ const Container = styled.div`
   justify-content: center;
   align-items: center;
   flex-direction: column;
-
+img{
+    width: 400px;
+    height: 400px;
+}
   div{
     display: flex;
     flex-direction: row;

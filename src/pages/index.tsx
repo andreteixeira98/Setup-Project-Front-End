@@ -1,7 +1,7 @@
 import Container from "../styles/pages/Home";
 import  Head  from "next/head";
 import  React from "react";
-import Logo from "../assets/image-default.svg";
+import Screenshot from "../assets/screenshot.png";
 const  Home  : React.FC  =  ( ) =>  {
   return (
     <>
@@ -10,7 +10,7 @@ const  Home  : React.FC  =  ( ) =>  {
         </Head>
 
             <Container>
-                    <Logo />
+                    <img src={Screenshot} alt="screenshot"/>
                     <div>
                         A ReactJS + Next.js structure made by &nbsp;
                         <a href="https://github.com/andreteixeira98">  André Teixeira</a>
