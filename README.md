@@ -2,8 +2,7 @@
 Project setup with React, Next, TypeScript, Styled components and Eslint.
 
 
-<!-- PROJECT SHIELDS -->
-
+<!-- PROJECT SHIELDS -->       
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -12,11 +11,8 @@ Project setup with React, Next, TypeScript, Styled components and Eslint.
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-<div align="center">
-    <h1 align="center">Setup Project Front End</h1>
-    <img src="/src/assets/icon1-computer.png" />
-</div>
 
+<img src="/src/assets/icon1-computer.png" />
 
 
 <!-- TABLE OF CONTENTS -->
