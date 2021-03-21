@@ -1,7 +1,6 @@
 import Container from "../styles/pages/Home";
 import  Head  from "next/head";
 import  React from "react";
-import Screenshot from "../assets/screenshot-default.png";
 const  Home  : React.FC  =  ( ) =>  {
   return (
     <>
