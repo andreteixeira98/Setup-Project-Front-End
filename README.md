@@ -13,9 +13,7 @@ Project setup with React, Next, TypeScript, Styled components and Eslint.
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-    <img src="/src/assets/icon1-computer.png" width="838" height="417.38" />
-</p>
+<img src="/src/assets/icon1-computer.png"/>
 
 
 
@@ -149,3 +147,4 @@ Link Project on Notion: [Setup project on Notion](https://www.notion.so/setup-pr
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/andre-teixeira-83a822186
 [product-screenshot]: /src/assets/icon2-computer.png
+
