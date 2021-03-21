@@ -11,8 +11,5 @@ const MyApp: React.FC<AppProps> = ({ Component, pageProps }) => {
      <GlobalStyle />
    </ThemeProvider>
   );
-
-
 }
-
 export default MyApp
