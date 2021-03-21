@@ -70,6 +70,7 @@ To get a local copy up and running follow these simple example steps.
   ```sh
   #install degit with npm:
     npm install -g degit
+    teste
 
   #or install degit with yarn:
     yarn global add degit
