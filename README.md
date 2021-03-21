@@ -12,8 +12,8 @@ Project setup with React, Next, TypeScript, Styled components and Eslint.
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-<br />
-<img src="/src/assets/icon1-computer.png"/>
+<p>Setup Project Front End</p>
+<img src="/src/assets/icon1-computer.png" />
 
 
 
@@ -49,7 +49,7 @@ Project setup with React, Next, TypeScript, Styled components and Eslint.
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
-these are some of the technologies used to create the project
+Technologies used to create the project
 
 * [React](https://reactjs.org/)
 * [Next](https://nextjs.org/)
@@ -114,8 +114,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/andreteixeira98/Setup-Project-Front-End/blob/main/LICENSE) for more information.
-
+ Distributed under the MIT License. See [LICENSE](https://github.com/andreteixeira98/Setup-Project-Front-End/blob/main/LICENSE) for more information.
 
 <!-- CONTACT -->
 ## Contact
