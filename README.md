@@ -147,5 +147,5 @@ Link Project on Notion: [Setup project on Notion](https://www.notion.so/setup-pr
 [license-shield]: https://img.shields.io/github/license/andreteixeira98/Setup-Project-Front-End.svg?style=for-the-badge
 [license-url]: https://github.com/andreteixeira98/Setup-Project-Front-End/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/
+[linkedin-url]: https://linkedin.com/in/andre-teixeira-83a822186
 [product-screenshot]: /src/assets/icon2-computer.png
