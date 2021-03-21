@@ -66,7 +66,7 @@ To get a local copy up and running follow these simple example steps.
 
 * it is necessary to install a package manager like [yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable) or [npm](https://www.npmjs.com/get-npm)
 * it is necessary to install [degit](https://www.npmjs.com/package/degit)
-* Instaltation degit
+* Installation degit
   ```sh
   #install degit with npm:
     npm install -g degit
@@ -77,6 +77,7 @@ To get a local copy up and running follow these simple example steps.
  * if you use yarn, you will need to add [global package settings in Yarn](https://classic.yarnpkg.com/en/docs/cli/global/) to your path.
 
 ### Installation
+
 
 1. Clone the repo
    ```sh
