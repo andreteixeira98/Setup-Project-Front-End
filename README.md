@@ -12,8 +12,10 @@ Project setup with React, Next, TypeScript, Styled components and Eslint.
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-<p>Setup Project Front End</p>
-<img src="/src/assets/icon1-computer.png" />
+<div align="center">
+    <h1 align="center">Setup Project Front End</h1>
+    <img src="/src/assets/icon1-computer.png" />
+</div>
 
 
 
