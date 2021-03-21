@@ -19,7 +19,7 @@ const  Home  : React.FC  =  ( ) =>  {
                         <li><a href="https://eslint.org/">Eslint</a></li>
                     </ul>
                     <div>
-                        A ReactJS + Next.js structure made by &nbsp;
+                        project setup made by &nbsp;
                         <a href="https://github.com/andreteixeira98">  André Teixeira</a>
                     </div>
             </Container>
