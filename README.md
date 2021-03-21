@@ -15,7 +15,7 @@ Project setup with React, Next, TypeScript, Styled components and Eslint.
 <br />
 <p align="center">
     <span>Logo Your Project</span> <br />
-    <img src="/src/assets/screenshot.png" width="80" height="80" />
+    <img src="/src/assets/icon-computer.png" width="80" height="80" />
 </p>
 
 
