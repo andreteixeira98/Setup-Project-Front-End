@@ -72,7 +72,7 @@ To get a local copy up and running follow these simple example steps.
     npm install -g degit
 
   #or install degit with yarn:
-    yarn add degit
+    yarn global add degit
   ```
  * if you use yarn, you will need to add [global package settings in Yarn](https://classic.yarnpkg.com/en/docs/cli/global/) to your path.
 
