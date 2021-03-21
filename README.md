@@ -2,7 +2,7 @@
 Project setup with React, Next, TypeScript, Styled components and Eslint.
 
 
-<!-- PROJECT SHIELDS -->       
+<!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -65,28 +65,13 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 * it is necessary to install a package manager like [yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable) or [npm](https://www.npmjs.com/get-npm)
-* it is necessary to install [degit](https://www.npmjs.com/package/degit)
-* Installation degit
-  ```sh
-  #install degit with npm:
-    npm install -g degit
-    teste
 
-  #or install degit with yarn:
-    yarn global add degit
-  ```
- * if you use yarn, you will need to add [global package settings in Yarn](https://classic.yarnpkg.com/en/docs/cli/global/) to your path.
 
 ### Installation
 
-
 1. Clone the repo
    ```sh
-   yarn degit https://github.com/andreteixeira98/Setup-Project-Front-End.git
-
-   #or
-
-   npm degit https://github.com/andreteixeira98/Setup-Project-Front-End.git
+   git clone https://github.com/andreteixeira98/Setup-Project-Front-End.git   ProjectName
    ```
 2. Installation Project Dependencies
    ```sh
@@ -146,4 +131,3 @@ Link Project on Notion: [Setup project on Notion](https://www.notion.so/setup-pr
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/andre-teixeira-83a822186
 [product-screenshot]: /src/assets/icon2-computer.png
-
